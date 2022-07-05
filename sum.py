@@ -3,4 +3,4 @@ from re import X
 
 a,b = 5,6
 print(a+b)
-print(a+a)
+print(b+b)
